@@ -1,6 +1,6 @@
 public class MyClass {
 
-    //equality pointer
+    //equality printer
     public static void printEqual(int a, int b, int c) {
         if (a < 0 || b < 0 || c < 0) {
             System.out.println("invalid value");
